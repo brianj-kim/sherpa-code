@@ -18,4 +18,4 @@
   
 
 ### ERD diagram
-[embed]./docs/01-SherpaEventList-ERD.pdf[/embed]
+[embed]https://brianjkim.dev/01-SherpaEventList-ERD.pdf[/embed]

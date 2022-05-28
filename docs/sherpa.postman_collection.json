@@ -1,0 +1,68 @@
+{
+	"info": {
+		"_postman_id": "adfc035f-3bc0-42e1-ad8e-06a8e09f24aa",
+		"name": "sherpa",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1643261"
+	},
+	"item": [
+		{
+			"name": "Get Individual event with id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/events/11",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"events",
+						"11"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get events list",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/events",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"events"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Migrate Database",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://locahost:3000/update",
+					"protocol": "http",
+					"host": [
+						"locahost"
+					],
+					"port": "3000",
+					"path": [
+						"update"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
