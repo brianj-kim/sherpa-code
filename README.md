@@ -17,5 +17,6 @@
   You can test the APIs with attached postman collection
   
 
-### ERD diagram
-<embed src="https://brianjkim.dev/01-SherpaEventList-ERD.pdf" type="application/pdf">
+### Documents
+  - ERD diagram
+  - Postman collection for testing api
