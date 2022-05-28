@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Sherpa event: bowling",
+    "isOutside": false,
+    "location": "CAN|TORONTO",
+    "date": 1653896246775,
+    "organizer": {
+      "name": "Harriet Smith"
+    }
+  },
+  {
+    "name": "Sherpa event: day at the beach",
+    "isOutside": true,
+    "location": "CAN|TORONTO",
+    "date": 1654241846776,
+    "organizer": {
+      "name": "Azhar Khan"
+    }
+  },
+  {
+    "name": "Peter & Lucy wedding!",
+    "isOutside": true,
+    "location": "THA|BANGKOK",
+    "date": 1654155446776,
+    "organizer": {
+      "name": "Harriet Smith"
+    }
+  },
+  {
+    "name": "Scotiabank corporate event",
+    "isOutside": true,
+    "location": "USA|DETROIT",
+    "date": 1654155446776,
+    "organizer": {
+      "name": "Harriet Smith"
+    }
+  },
+  {
+    "name": "Angular conference",
+    "isOutside": false,
+    "location": "USA|NEW_YORK",
+    "date": 1654069046776,
+    "organizer": {
+      "name": "Azhar Khan"
+    }
+  },
+  {
+    "name": "Sherpa event: online trivia",
+    "isOutside": false,
+    "location": "REMOTE",
+    "date": 1654241846776,
+    "organizer": {
+      "name": "Azhar Khan"
+    }
+  },
+  {
+    "name": "Sherpa event: Softball",
+    "isOutside": true,
+    "location": "CAN|TORONTO",
+    "date": 1653896246776,
+    "organizer": {
+      "name": "Harriet Smith"
+    }
+  }
+]
